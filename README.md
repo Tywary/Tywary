@@ -1,4 +1,4 @@
-# Hello! I'm Tywary - aka [Zapinator](https://www.youtube.com/channel/UCZjjJ9T_nTOWLgFV3KHftzg) 👋
+# Hello! I'm Tywary 👋
 
 ### I'm a Student, Artist, Developer!
 - 📚 I'm currently learning javascript, backend development and a ton of stuff...
