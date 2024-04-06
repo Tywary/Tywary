@@ -36,7 +36,7 @@
 
 ## Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tywary&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="tywary" /></p>
-<p>&nbsp;<img align="center" src="https://img.shields.io/badge/Profile_Views-2421-249eff?style=flat" alt="tywary" /></p>
+<!--<p>&nbsp;<img align="center" src="https://img.shields.io/badge/Profile_Views-2421-249eff?style=flat" alt="tywary" /></p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tywary&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="tywary" /></p>
 
 ### You can find me here:
